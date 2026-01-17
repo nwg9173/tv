@@ -37,6 +37,280 @@
         "type": "radio",
         "url": "https://sk.cri.cn/nhzs.m3u8"
       }
+   ]
+},
+{
+    "id": "c5967492-076e-e087-d9b7-cfeb4be2578c",
+    "name": "去亦何苦",
+    "musics": [
+      {
+        "name": "下完这场雨",
+        "url": "http://192.168.1.1:8096/Audio/073ea6ef-17e5-faa7-71a3-16f3cb5bd002/stream?static=true"
+      },
+      {
+        "name": "好好爱^0^ (甜蜜真实版)",
+        "url": "http://192.168.1.1:8096/Audio/7dcd0d26-d285-9a44-cbbc-4fda3a6c4613/stream?static=true"
+      },
+      {
+        "name": "A.I.N.Y.",
+        "url": "http://192.168.1.1:8096/Audio/a554f838-a3ef-d00d-a21d-4b5d97e70d04/stream?static=true"
+      },
+      {
+        "name": "当你",
+        "url": "http://192.168.1.1:8096/Audio/336f81c8-04b1-8fab-c64e-9518938f7f25/stream?static=true"
+      },
+      {
+        "name": "记事本",
+        "url": "http://192.168.1.1:8096/Audio/4634a043-6691-84c5-8f00-248ba346eeb9/stream?static=true"
+      },
+      {
+        "name": "Don’t Go Away",
+        "url": "http://192.168.1.1:8096/Audio/3e4abb3d-40ae-2e0d-8e74-a12795d1c483/stream?static=true"
+      },
+      {
+        "name": "不要说话",
+        "url": "http://192.168.1.1:8096/Audio/e6173e89-2a6e-93f0-6c92-7ca727439874/stream?static=true"
+      },
+      {
+        "name": "舍不得",
+        "url": "http://192.168.1.1:8096/Audio/e72429cf-c4cb-a0d5-4d38-398e1ffb2256/stream?static=true"
+      },
+      {
+        "name": "醉清风",
+        "url": "http://192.168.1.1:8096/Audio/86724fc2-44cb-ef66-5583-836955d9afea/stream?static=true"
+      },
+      {
+        "name": "放生",
+        "url": "http://192.168.1.1:8096/Audio/52aa84fe-ad63-53f6-910a-a6baac4173e9/stream?static=true"
+      },
+      {
+        "name": "痛彻心扉",
+        "url": "http://192.168.1.1:8096/Audio/aecac68b-8605-bc93-27ca-f77f64db8cb6/stream?static=true"
+      },
+      {
+        "name": "云烟成雨",
+        "url": "http://192.168.1.1:8096/Audio/f6aae276-edeb-8dfe-02cd-d0ece3277a75/stream?static=true"
+      },
+      {
+        "name": "云边书坊",
+        "url": "http://192.168.1.1:8096/Audio/cf27aa66-8b06-48d0-688b-41d2c0506093/stream?static=true"
+      },
+      {
+        "name": "爱一点",
+        "url": "http://192.168.1.1:8096/Audio/67bf006f-1497-d69f-3d30-44a5882143c8/stream?static=true"
+      },
+      {
+        "name": "退后",
+        "url": "http://192.168.1.1:8096/Audio/8db1fbde-9c8b-5d06-db74-950f390b77d9/stream?static=true"
+      },
+      {
+        "name": "命中注定",
+        "url": "http://192.168.1.1:8096/Audio/cc56335e-42a2-e55c-4fc8-5bf71f84fbf7/stream?static=true"
+      },
+      {
+        "name": "静静的",
+        "url": "http://192.168.1.1:8096/Audio/e34d0e5b-d4db-3d2e-dc1f-47f38cb2c02c/stream?static=true"
+      },
+      {
+        "name": "如果有一天",
+        "url": "http://192.168.1.1:8096/Audio/d48911c5-ac62-8893-34bf-713fd2c166eb/stream?static=true"
+      },
+      {
+        "name": "珊瑚海",
+        "url": "http://192.168.1.1:8096/Audio/ed37dbbf-31ba-2d43-0ca0-f7baa9f9e092/stream?static=true"
+      },
+      {
+        "name": "受了点伤",
+        "url": "http://192.168.1.1:8096/Audio/ef25d4f7-c7b6-aa54-6071-f61df03d9cd6/stream?static=true"
+      },
+      {
+        "name": "突然好想你",
+        "url": "http://192.168.1.1:8096/Audio/0131815f-df19-4c07-d93b-29db86883061/stream?static=true"
+      },
+      {
+        "name": "夏天的风",
+        "url": "http://192.168.1.1:8096/Audio/6f8b5a5e-04fe-6a96-a15e-eb8ee64b149e/stream?static=true"
+      },
+      {
+        "name": "第一次 (Live)",
+        "url": "http://192.168.1.1:8096/Audio/9f95ce0b-afed-a634-874f-1e6d81480bfe/stream?static=true"
+      },
+      {
+        "name": "最后一页 (Live)",
+        "url": "http://192.168.1.1:8096/Audio/2df4a5b9-4f76-1a8e-9bdc-29579e4f51a8/stream?static=true"
+      },
+      {
+        "name": "就是爱你",
+        "url": "http://192.168.1.1:8096/Audio/9230ec9d-9ce8-b037-6b06-107bcfdd798e/stream?static=true"
+      },
+      {
+        "name": "Only Lonely",
+        "url": "http://192.168.1.1:8096/Audio/3e774746-39f3-681e-fb1b-382fc7ad5e53/stream?static=true"
+      },
+      {
+        "name": "温柔",
+        "url": "http://192.168.1.1:8096/Audio/a1f9c3d0-5716-1a76-1cba-a9b7e906ba59/stream?static=true"
+      },
+      {
+        "name": "轨迹",
+        "url": "http://192.168.1.1:8096/Audio/896cf40d-0fde-62e2-0316-08e856e5ef14/stream?static=true"
+      },
+      {
+        "name": "豆豆龙",
+        "url": "http://192.168.1.1:8096/Audio/9056f4ef-85f3-207e-c0da-9e8995cd0aff/stream?static=true"
+      },
+      {
+        "name": "就是爱你",
+        "url": "http://192.168.1.1:8096/Audio/df962027-d0f0-95e2-bc26-a178d9f4f9ad/stream?static=true"
+      },
+      {
+        "name": "带我走",
+        "url": "http://192.168.1.1:8096/Audio/6e37fbae-6744-b4c0-c47a-1ee33054fcbc/stream?static=true"
+      },
+      {
+        "name": "另一个天堂",
+        "url": "http://192.168.1.1:8096/Audio/b48461c5-04f1-0485-8408-f56b16ef7582/stream?static=true"
+      },
+      {
+        "name": "听不到",
+        "url": "http://192.168.1.1:8096/Audio/814d7ecf-89d3-32d4-5bee-e36387da17ba/stream?static=true"
+      },
+      {
+        "name": "爱上你",
+        "url": "http://192.168.1.1:8096/Audio/07721a14-84db-12b5-8a6b-8f565d57dd6e/stream?static=true"
+      },
+      {
+        "name": "我可以",
+        "url": "http://192.168.1.1:8096/Audio/8e82e2c6-5263-72d1-8722-df5e8d8f0dcc/stream?static=true"
+      },
+      {
+        "name": "我怕来者不是你",
+        "url": "http://192.168.1.1:8096/Audio/8dd24d60-cf91-b0f2-a3f5-08d5b46b7d85/stream?static=true"
+      },
+      {
+        "name": "你不是真正的快乐 (Live)",
+        "url": "http://192.168.1.1:8096/Audio/c09ff1b5-6b18-4c4e-6949-db3a3f444126/stream?static=true"
+      },
+      {
+        "name": "我好想你(Live)",
+        "url": "http://192.168.1.1:8096/Audio/114d1dc8-96dd-58c1-877d-b7ae02685fec/stream?static=true"
+      },
+      {
+        "name": "分开旅行",
+        "url": "http://192.168.1.1:8096/Audio/29c07c90-4aa9-448c-f3f3-081a71299500/stream?static=true"
+      },
+      {
+        "name": "开始懂了",
+        "url": "http://192.168.1.1:8096/Audio/4a80f8da-b553-68ec-7aa7-a00457c6cb4e/stream?static=true"
+      },
+      {
+        "name": "Lydia",
+        "url": "http://192.168.1.1:8096/Audio/0c776eef-8329-05e5-f97e-45809f320aa8/stream?static=true"
+      },
+      {
+        "name": "浪漫爱",
+        "url": "http://192.168.1.1:8096/Audio/813313cf-1fb0-e858-c3d8-491879a0fcde/stream?static=true"
+      },
+      {
+        "name": "暧昧",
+        "url": "http://192.168.1.1:8096/Audio/77dd0fe5-6e65-820b-e714-9001eb36b80c/stream?static=true"
+      },
+      {
+        "name": "时光",
+        "url": "http://192.168.1.1:8096/Audio/f33f51c2-d318-009e-86eb-4969460452d9/stream?static=true"
+      },
+      {
+        "name": "月亮惹的祸",
+        "url": "http://192.168.1.1:8096/Audio/05353277-c194-e16c-d85c-675c92eb6099/stream?static=true"
+      },
+      {
+        "name": "沈园外",
+        "url": "http://192.168.1.1:8096/Audio/f3f25cd5-ca90-7fff-d6d9-9a1a313a2013/stream?static=true"
+      },
+      {
+        "name": "爱如空气",
+        "url": "http://192.168.1.1:8096/Audio/5f2d3d1f-f145-2a97-e44a-b9cba7e3fd11/stream?static=true"
+      },
+      {
+        "name": "你在 不在",
+        "url": "http://192.168.1.1:8096/Audio/87693bd8-9cd5-42b7-ce84-076ef53088bd/stream?static=true"
+      },
+      {
+        "name": "温柔",
+        "url": "http://192.168.1.1:8096/Audio/972fa4e2-3421-b25b-0988-5c5c8bfc2bdd/stream?static=true"
+      },
+      {
+        "name": "孤单北半球",
+        "url": "http://192.168.1.1:8096/Audio/b59e6466-87d9-8d93-79f9-01eb36cd20ed/stream?static=true"
+      },
+      {
+        "name": "当爱在靠近",
+        "url": "http://192.168.1.1:8096/Audio/501536ec-c84d-b856-06f7-51347f392851/stream?static=true"
+      },
+      {
+        "name": "一言难尽",
+        "url": "http://192.168.1.1:8096/Audio/ee1f604a-e80a-99cf-8365-ed1ccd29d33a/stream?static=true"
+      },
+      {
+        "name": "目及皆是你",
+        "url": "http://192.168.1.1:8096/Audio/245963d8-4634-859a-f98a-905dd1de9ec9/stream?static=true"
+      },
+      {
+        "name": "知足",
+        "url": "http://192.168.1.1:8096/Audio/b375e276-3d80-41da-4852-154f684020b0/stream?static=true"
+      },
+      {
+        "name": "秋风落叶",
+        "url": "http://192.168.1.1:8096/Audio/3532120e-577a-0a64-915c-d2b41b1826fe/stream?static=true"
+      },
+      {
+        "name": "我好想你",
+        "url": "http://192.168.1.1:8096/Audio/f545d2e4-4b13-3e2f-1e28-6014d67101f6/stream?static=true"
+      },
+      {
+        "name": "缘分的天空",
+        "url": "http://192.168.1.1:8096/Audio/c8c20518-5759-69f1-b936-e7f46542d797/stream?static=true"
+      },
+      {
+        "name": "青花",
+        "url": "http://192.168.1.1:8096/Audio/f3f1b5be-8e52-e074-030f-ad8ff6075719/stream?static=true"
+      },
+      {
+        "name": "陌生人",
+        "url": "http://192.168.1.1:8096/Audio/e27a3fd0-6a47-a8bc-61c5-bc9c55f7206a/stream?static=true"
+      },
+      {
+        "name": "匿名的好友",
+        "url": "http://192.168.1.1:8096/Audio/27f651e7-7b4b-c13d-04de-960f2bff37cf/stream?static=true"
+      },
+      {
+        "name": "不哭",
+        "url": "http://192.168.1.1:8096/Audio/afa75a72-b7bb-15e1-96d7-4433e1c57a4a/stream?static=true"
+      },
+      {
+        "name": "黄昏",
+        "url": "http://192.168.1.1:8096/Audio/04fb9f93-e9ff-a56e-7c98-d29bc235a835/stream?static=true"
+      },
+      {
+        "name": "倒数",
+        "url": "http://192.168.1.1:8096/Audio/e3a04063-2d0b-fa53-0571-3ce07b272954/stream?static=true"
+      },
+      {
+        "name": "春泥",
+        "url": "http://192.168.1.1:8096/Audio/b9bb4de6-c7cb-bfe7-61e4-ff3cc5b759b1/stream?static=true"
+      },
+      {
+        "name": "虹之间 (Live)",
+        "url": "http://192.168.1.1:8096/Audio/58e9feb0-51ce-e1f2-79f6-1985dbe132af/stream?static=true"
+      },
+      {
+        "name": "浪人情歌",
+        "url": "http://192.168.1.1:8096/Audio/38ac9236-7d60-e116-dd99-f38f097606ec/stream?static=true"
+      },
+      {
+        "name": "宁夏",
+        "url": "http://192.168.1.1:8096/Audio/56283483-3c11-ec68-7745-14dfb3b57edf/stream?static=true"
+      }
     ]
   }
 ]
