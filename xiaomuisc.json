@@ -92,16 +92,8 @@
         "url": "http://192.168.1.1:8096/Audio/f6aae276-edeb-8dfe-02cd-d0ece3277a75/stream?static=true"
       },
       {
-        "name": "云边书坊",
-        "url": "http://192.168.1.1:8096/Audio/cf27aa66-8b06-48d0-688b-41d2c0506093/stream?static=true"
-      },
-      {
         "name": "爱一点",
         "url": "http://192.168.1.1:8096/Audio/67bf006f-1497-d69f-3d30-44a5882143c8/stream?static=true"
-      },
-      {
-        "name": "退后",
-        "url": "http://192.168.1.1:8096/Audio/8db1fbde-9c8b-5d06-db74-950f390b77d9/stream?static=true"
       },
       {
         "name": "命中注定",
@@ -116,20 +108,12 @@
         "url": "http://192.168.1.1:8096/Audio/d48911c5-ac62-8893-34bf-713fd2c166eb/stream?static=true"
       },
       {
-        "name": "珊瑚海",
-        "url": "http://192.168.1.1:8096/Audio/ed37dbbf-31ba-2d43-0ca0-f7baa9f9e092/stream?static=true"
-      },
-      {
         "name": "受了点伤",
         "url": "http://192.168.1.1:8096/Audio/ef25d4f7-c7b6-aa54-6071-f61df03d9cd6/stream?static=true"
       },
       {
         "name": "突然好想你",
         "url": "http://192.168.1.1:8096/Audio/0131815f-df19-4c07-d93b-29db86883061/stream?static=true"
-      },
-      {
-        "name": "夏天的风",
-        "url": "http://192.168.1.1:8096/Audio/6f8b5a5e-04fe-6a96-a15e-eb8ee64b149e/stream?static=true"
       },
       {
         "name": "第一次 (Live)",
@@ -140,24 +124,12 @@
         "url": "http://192.168.1.1:8096/Audio/2df4a5b9-4f76-1a8e-9bdc-29579e4f51a8/stream?static=true"
       },
       {
-        "name": "就是爱你",
-        "url": "http://192.168.1.1:8096/Audio/9230ec9d-9ce8-b037-6b06-107bcfdd798e/stream?static=true"
-      },
-      {
         "name": "Only Lonely",
         "url": "http://192.168.1.1:8096/Audio/3e774746-39f3-681e-fb1b-382fc7ad5e53/stream?static=true"
       },
       {
         "name": "温柔",
         "url": "http://192.168.1.1:8096/Audio/a1f9c3d0-5716-1a76-1cba-a9b7e906ba59/stream?static=true"
-      },
-      {
-        "name": "轨迹",
-        "url": "http://192.168.1.1:8096/Audio/896cf40d-0fde-62e2-0316-08e856e5ef14/stream?static=true"
-      },
-      {
-        "name": "豆豆龙",
-        "url": "http://192.168.1.1:8096/Audio/9056f4ef-85f3-207e-c0da-9e8995cd0aff/stream?static=true"
       },
       {
         "name": "就是爱你",
@@ -220,10 +192,6 @@
         "url": "http://192.168.1.1:8096/Audio/f33f51c2-d318-009e-86eb-4969460452d9/stream?static=true"
       },
       {
-        "name": "月亮惹的祸",
-        "url": "http://192.168.1.1:8096/Audio/05353277-c194-e16c-d85c-675c92eb6099/stream?static=true"
-      },
-      {
         "name": "沈园外",
         "url": "http://192.168.1.1:8096/Audio/f3f25cd5-ca90-7fff-d6d9-9a1a313a2013/stream?static=true"
       },
@@ -246,10 +214,6 @@
       {
         "name": "当爱在靠近",
         "url": "http://192.168.1.1:8096/Audio/501536ec-c84d-b856-06f7-51347f392851/stream?static=true"
-      },
-      {
-        "name": "一言难尽",
-        "url": "http://192.168.1.1:8096/Audio/ee1f604a-e80a-99cf-8365-ed1ccd29d33a/stream?static=true"
       },
       {
         "name": "目及皆是你",
@@ -304,12 +268,20 @@
         "url": "http://192.168.1.1:8096/Audio/58e9feb0-51ce-e1f2-79f6-1985dbe132af/stream?static=true"
       },
       {
-        "name": "浪人情歌",
-        "url": "http://192.168.1.1:8096/Audio/38ac9236-7d60-e116-dd99-f38f097606ec/stream?static=true"
-      },
-      {
         "name": "宁夏",
         "url": "http://192.168.1.1:8096/Audio/56283483-3c11-ec68-7745-14dfb3b57edf/stream?static=true"
+      },
+      {
+        "name": "珊瑚海",
+        "url": "http://192.168.1.1:8096/Audio/b750ae64-cd88-cf97-2977-e24bd76b5c15/stream?static=true"
+      },
+      {
+        "name": "轨迹",
+        "url": "http://192.168.1.1:8096/Audio/296590dc-a574-051d-9cc9-07b5e009078d/stream?static=true"
+      },
+      {
+        "name": "退后",
+        "url": "http://192.168.1.1:8096/Audio/af45dace-33ec-bfa6-9696-6d9268536656/stream?static=true"
       }
     ]
   }
